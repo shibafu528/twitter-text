@@ -5,12 +5,12 @@
 # encoding: utf-8
 
 Gem::Specification.new do |s|
-  s.name = "twitter-text"
-  s.version = "3.0.0"
+  s.name = "twitter-text-simpleidn"
+  s.version = "3.0.0.0"
   s.authors = ["David LaMacchia", "Sudheer Guntupalli", "Kaushik Lakshmikanth", "Jose Antonio Marquez Russo", "Lee Adams",
-               "Yoshimasa Niwa"]
-  s.email = ["opensource@twitter.com"]
-  s.homepage = "http://twitter.com"
+               "Yoshimasa Niwa", "Kazuki Ishihara"]
+  s.email = ["shibafu528@gmail.com"]
+  s.homepage = "https://github.com/shibafu528/twitter-text-simpleidn"
   s.description = s.summary = "A gem that provides text handling for Twitter"
   s.license = "Apache 2.0"
 
